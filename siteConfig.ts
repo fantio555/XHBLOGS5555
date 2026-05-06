@@ -2,17 +2,17 @@
 
 export const siteConfig = {
   // 1. 网站标题与博主信息
-  title: "XingHuiSama の 宝藏之地",
+  title: "FanTi の 深空",
   faviconUrl: "https://bu.dusays.com/2026/03/24/69c1e38ac1846.jpg",
-  authorName: "XingHuiSama",
-  bio: "在代码、学术与分子动力学模拟间穿梭的普通人。近期正埋头于 GROMACS 模拟研究与神经网络计算。",
+  authorName: "FanTi ",
+  bio: "to be continue ......",
 
-  navTitle: "XingHuiSama",
+  navTitle: "FanTi",
 
   // 👇 【新增】导航栏中间的那个后缀/分隔符（默认是 の）
   navSuffix: "の",
 
-  navAfter: "宝藏之地",
+  navAfter: "深空",
 
   // 2. 头像设置 (支持网络链接，或将图片放入 public 文件夹后使用 "/me.jpg")
   avatarUrl: "https://bu.dusays.com/2026/03/24/69c1e38ac1846.jpg",
@@ -29,14 +29,14 @@ export const siteConfig = {
 
   // 5. 首页照片墙预览图
   photoWallImage: "https://bu.dusays.com/2026/03/24/69c1e38b4c370.jpg",
-  cloudMusicIds: ["1809646618", "3361076230", "1859390262"],
+  cloudMusicIds: ["407485610"],
   social: {
-    github: "",
-    gitee: "",
-    google: "",
-    email: "",
-    qq: "1124533793",
-    wechat: "XingHuisama",
+    github: "https://github.com/fantio555",
+    gitee: "https://github.com/fantio555",
+    google: "bluesky@gmail.com",
+    email: "1293218835@qq.com",
+    qq: "1293218835",
+    wechat: "七里香",
   },
   counts: {
     photos: 128, // 照片墙数量可以手动写死或动态计算
@@ -46,7 +46,7 @@ export const siteConfig = {
 
 
   // 👇 【新增】：全局背景弹幕配置
-  danmakuList: ["在干嘛呢？", "有笨蛋嘛？", "前方高能反应！", "GROMACS 跑起来了吗？", "MD 模拟什么时候才能出图啊", "Graph Neural Networks 炼丹中...", "BUG 修复进度 99%", "今天背单词了吗？", "Tailwind CSS 拯救前端", "写算法中", "睡大觉中", "到底在干嘛？"],
+  danmakuList: ["咔咔咔", "在干嘛呢？", "有笨蛋嘛？", "前方高能反应！", "MD 模拟什么时候才能出图啊", "Graph Neural Networks 炼丹中...", "BUG 修复进度 99%", "今天背单词了吗？", "Tailwind CSS 拯救前端", "写算法中", "睡大觉中", "到底在干嘛？"],
   gitalkConfig: {
     clientID: "",
     clientSecret: "",
